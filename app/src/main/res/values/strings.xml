@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kyoto</string>
+
+    <string name="texto_nombre">Nombre:</string>
+    <string name="text_telefono">Teléfono:</string>
+    <string name="text_email">Email:</string>
+    <string name="texto_aceptar">Aceptar</string>
+    
+    <string name="texto_formulario">Agregar nuevo registro</string>
+    <string name="texto_listado">Consultar registros</string>
+</resources>
